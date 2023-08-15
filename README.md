@@ -1,3 +1,24 @@
+# Desafio Lanchonete
+
+Bem-vindo ao desafio da lanchonete! Este projeto implementa um sistema simples de lanchonete que calcula o valor total de uma compra com base nos itens escolhidos e na forma de pagamento.
+
+## Sobre o Desafio
+
+O objetivo deste desafio é criar um programa que simule um sistema de caixa de uma lanchonete. O programa deve calcular o valor total da compra considerando diferentes itens do cardápio, quantidades, itens extras e formas de pagamento.
+
+## Requisitos
+
+- Node.js (versão 14 ou superior)
+
+## Instalação
+
+1. Clone este repositório para sua máquina local:
+
+```sh
+git clone https://github.com/seu-usuario/desafio-lanchonete.git
+cd desafio-lanchonete
+```
+
 # CAIXA DA LANCHONETE
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
