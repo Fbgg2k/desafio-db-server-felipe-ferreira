@@ -2,9 +2,6 @@
 
 desafio start estágio db server
 
-Claro! Aqui está um exemplo de README para o seu desafio da lanchonete que você pode usar no GitHub:
-
-```markdown
 # Desafio Lanchonete
 
 Bem-vindo ao desafio da lanchonete! Este projeto implementa um sistema simples de lanchonete que calcula o valor total de uma compra com base nos itens escolhidos e na forma de pagamento.
