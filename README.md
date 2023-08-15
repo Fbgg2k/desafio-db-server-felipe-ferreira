@@ -56,5 +56,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ---
 
 Feito com 🍔☕️ por [Seu Nome](https://github.com/Fbgg2k)
+```sh
+https://www.linkedin.com/in/fbferreiragg/
 ```
 
