@@ -55,13 +55,15 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-Feito com 🍔☕️ por [felipe]https://github.com/fbgg2k)
+Feito com 🍔 + ☕️ & [felipe]https://github.com/fbgg2k)
 
 ```sh
 https://www.linkedin.com/in/fbferreiragg/
 ```
 
+
 # README DB SERVER
+
 
 # CAIXA DA LANCHONETE
 
