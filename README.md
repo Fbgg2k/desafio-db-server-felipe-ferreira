@@ -19,6 +19,50 @@ git clone https://github.com/seu-usuario/desafio-lanchonete.git
 cd desafio-lanchonete
 ```
 
+## Instale as dependências:
+
+```sh
+npm install
+```
+
+## Uso
+
+Você pode executar o programa através do terminal fornecendo a forma de pagamento e os itens da compra. Aqui está um exemplo:
+
+```sh
+node calcular-compra.js debito cafe,2 chantily,1
+```
+
+## Testes
+
+Você pode executar o programa através do terminal fornecendo a forma de pagamento e os itens da compra. Um exemplo:
+
+```sh
+node calcular-compra.js debito cafe,2 chantily,1
+```
+
+```sh
+npm test
+```
+
+## Contribuição
+
+Se você gostaria de contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório, criar um branch com suas modificações e enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+---
+
+Feito com 🍔☕️ por [felipe]https://github.com/fbgg2k)
+
+```sh
+https://www.linkedin.com/in/fbferreiragg/
+```
+
+# README DB SERVER
+
 # CAIXA DA LANCHONETE
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
