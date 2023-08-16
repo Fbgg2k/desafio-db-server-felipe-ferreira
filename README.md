@@ -59,12 +59,8 @@ Feito com 🍔 + ☕️ & [felipe](https://github.com/fbgg2k)
 ```
 
 
-[linkedin](https://www.lindedin.com/in/fbferreiragg/)
+
 ```
-
-
-
-
 # README DB SERVER
 
 
