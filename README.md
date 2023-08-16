@@ -62,12 +62,19 @@ Feito com 🍔 + ☕️ & [felipe](https://github.com/fbgg2k)
 https://www.linkedin.com/in/fbferreiragg/
 ```
 
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+---
+
+Feito com 🍔+☕️ & [felipe](https://github.com/Fbgg2k-usuario)
+```
 
 
+---
 
 # README DB SERVER
 
-
+---
 
 
 # CAIXA DA LANCHONETE
